@@ -12,4 +12,4 @@
 - Create icons folder and move all icons there.
 <br>
 <br>
-In case the picture is not showing, change the .extensions_files to png or jpg.</h4>
+In case the picture is not showing, change the .extensions_icons to png or jpg.</h4>
